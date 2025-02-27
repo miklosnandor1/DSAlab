@@ -1,6 +1,8 @@
 #include <stdio.h>
+#include "headers/library.h"
 
 int main(void) {
-    printf("Miklos Nandor Labor 1-et bepotolni!\n");
+    primSzam(7);
+
     return 0;
 }
