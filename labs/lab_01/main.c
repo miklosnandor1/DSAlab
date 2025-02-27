@@ -2,7 +2,7 @@
 #include "headers/library.h"
 
 int main(void) {
-    primSzam(7);
+//    primSzam(7);
 
     return 0;
 }
