@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello, World!\n");
+    printf("Miklos Nandor Labor 1-et bepotolni!\n");
     return 0;
 }
